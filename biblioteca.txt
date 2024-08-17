@@ -1,0 +1,49 @@
+1984,George Orwell,Distopía,1949,False
+Cien años de soledad,Gabriel García Márquez,Realismo mágico,1967,True
+Matar a un ruiseñor,Harper Lee,Drama,1960,True
+El Gran Gatsby,F. Scott Fitzgerald,Ficción,1925,True
+Crimen y Castigo,Fiódor Dostoyevski,Filosofía,1866,False
+Don Quijote de la Mancha,Miguel de Cervantes,Aventura,1605,False
+Orgullo y Prejuicio,Jane Austen,Romance,1813,False
+El Señor de los Anillos,J.R.R. Tolkien,Fantasía,1954,True
+El retrato de Dorian Gray,Oscar Wilde,Horror,1890,True
+Ulises,James Joyce,Modernismo,1922,True
+La Odisea,Homero,Épico,-800,False
+La Divina Comedia,Dante Alighieri,Poesía,1320,False
+Guerra y Paz,León Tolstói,Histórico,1869,True
+Los miserables,Victor Hugo,Drama,1862,True
+Cumbres Borrascosas,Emily Brontë,Romántico,1847,False
+Fahrenheit 451,Ray Bradbury,Ciencia Ficción,1953,True
+Drácula,Bram Stoker,Horror,1897,True
+El hombre invisible,H.G. Wells,Ciencia Ficción,1897,False
+Frankenstein,Mary Shelley,Horror,1818,False
+Moby Dick,Herman Melville,Aventura,1851,True
+El Código Da Vinci,Dan Brown,Misterio,2003,True
+Harry Potter y la piedra filosofal,J.K. Rowling,Fantasía,1997,False
+El Hobbit,J.R.R. Tolkien,Fantasía,1937,False
+La Metamorfosis,Franz Kafka,Existencialismo,1915,False
+El Alquimista,Paulo Coelho,Ficción,1988,True
+El Padrino,Mario Puzo,Crimen,1969,False
+El amor en los tiempos del cólera,Gabriel García Márquez,Romántico,1985,False
+Cien años de soledad,Gabriel García Márquez,Realismo mágico,1967,False
+Los Juegos del Hambre,Suzanne Collins,Distopía,2008,True
+La sombra del viento,Carlos Ruiz Zafón,Misterio,2001,False
+1984,George Orwell,Distopía,1949,False
+Cementerio de animales,Stephen King,Horror,1983,True
+IT,Stephen King,Horror,1986,True
+Cazadores de sombras,Cassandra Clare,Fantasía,2007,False
+El guardián entre el centeno,J.D. Salinger,Ficción,1951,True
+El viejo y el mar,Ernest Hemingway,Aventura,1952,True
+Anna Karenina,León Tolstói,Romántico,1877,True
+Madame Bovary,Gustave Flaubert,Drama,1857,True
+Las aventuras de Sherlock Holmes,Arthur Conan Doyle,Misterio,1892,False
+La isla del tesoro,Robert Louis Stevenson,Aventura,1883,False
+El nombre de la rosa,Umberto Eco,Misterio,1980,False
+El conde de Montecristo,Alexandre Dumas,Aventura,1844,False
+Matar a un ruiseñor,Harper Lee,Drama,1960,False
+La historia interminable,Michael Ende,Fantasía,1979,True
+1984,George Orwell,Distopía,1949,False
+Don Quijote de la Mancha,Miguel de Cervantes,Aventura,1605,False
+Crimen y castigo,Fiódor Dostoyevski,Filosofía,1866,True
+El retrato de Dorian Gray,Oscar Wilde,Horror,1890,False
+El Gran Gatsby,F. Scott Fitzgerald,Ficción,1925,True
